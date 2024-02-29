@@ -9,4 +9,5 @@ Users should be able to:
 
 ## Author
 
-- Joy Akhanolu
+- Abubakar Idi
+- Moli Okugn
